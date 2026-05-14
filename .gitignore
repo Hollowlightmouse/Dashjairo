@@ -10,3 +10,4 @@ DOCUMENTACION.md
 
 # Credenciales y datos sensibles
 mapaibague-*.json
+.env*.local
